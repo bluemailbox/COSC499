@@ -4,11 +4,10 @@ A simple program designed to familiarize us with the inner workings of github fo
 
 ## Description
 
-This is a simple Java program used to sort a user given set of intergers or characters by ascending numerical or alphabetical order.
+This is a simple Java program used to sort a user given set of integers or strings by ascending numerical or alphabetical order.
 
 ## Getting Started
 
 There really isnt much to it
 
-This is me making a change
 
