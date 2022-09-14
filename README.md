@@ -1,11 +1,12 @@
-# Project Title
+# COSC 499 Github exercise
 
-Simple overview of use/purpose.
+A simple program designed to familiarize us with the inner workings of github for development.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a simple Java program used to sort a user given set of intergers or characters by ascending numerical or alphabetical order.
 
 ## Getting Started
 
+There really isnt much to it
 
