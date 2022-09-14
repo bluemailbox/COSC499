@@ -3,7 +3,7 @@ import org.junit.Test;
 public class sortIntegerTest {
     @Test
     public void testSort() {
-        int result = sortInteger.sortint(1,2,3);
+        int result = sortInteger.sortint(5,545,65);
         assertEquals(0,result);
     }
 }
